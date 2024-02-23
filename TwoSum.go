@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// Your twoSum function goes here
+//  twoSum function goes here
 func twoSum(nums []int, target int) []int {
     numMap := make(map[int]int)
     
